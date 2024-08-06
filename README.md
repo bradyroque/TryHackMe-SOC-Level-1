@@ -1,4 +1,4 @@
-# TryHackMe-SOC-Level-1
+# TryHackMe-SOC-Level-1 (in progress)
 
 [TryHackMe SOC Level 1 Course Link](https://tryhackme.com/path/outline/soclevel1)
 
